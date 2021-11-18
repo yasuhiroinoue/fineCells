@@ -1,0 +1,23 @@
+_________________________
+__Cells__________________
+k_vsal	50000.0	20.0	0.2	2.0
+ene_rep	2.0
+ene_adh_ii_io_oo	0.00	0.00	0.00
+frc_tcz	0.0	0.0	0.0
+swelling_ratio	0.65
+p_stay_to_move	0.0
+p_move_to_stay	0.0
+_________________________
+__Bounds_________________
+owall_ab	1.80	1.44
+iwall_ab	0.765	0.765
+_________________________
+__Settings_______________
+seed	19930622
+rechoice_step	100000
+_________________________
+__Other_parameters_______
+end_step	10000000
+dt_vtk	2e-2
+ar_tol	1e-6	1e-6
+kappa_d	5.0
