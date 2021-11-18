@@ -1,0 +1,11 @@
+dt_step	3.5309e-05
+dt_new	2.95988e-05
+count_physical_time	1.86728e-05
+physical_time	2.10002
+work_extf	0
+total_work_extf	0
+n_revcell	0
+total_n_revcell	0
+1.04051 -0.00459074 0.00512365
+2.01265 -0.00204973 -0.0029929
+1
