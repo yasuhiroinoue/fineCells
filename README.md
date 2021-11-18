@@ -30,6 +30,9 @@ make
 
 ./a.out start_step (usually "./a.out 0")
 
+## How to visualize ##
+Output data is written in VTK format. Please visualize the data using ParaView.
+You can get ParaView at https://www.paraview.org/
 
 ## Acknowledge ##
 Thanks to Hitoshi Saigo
